@@ -1,0 +1,49 @@
+.trending-coins {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+  }
+  
+  .trending-coins h2 {
+    margin-bottom: 15px;
+    font-size: 18px;
+  }
+  
+  .trending-coins ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .coin-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .coin-info {
+    display: flex;
+    align-items: center;
+  }
+  
+  .coin-icon {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px;
+  }
+  
+  .coin-change {
+    background-color: #e6f4ea;
+    color: #34a853;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+  @media (max-width: 768px) {
+      .coin-item {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }

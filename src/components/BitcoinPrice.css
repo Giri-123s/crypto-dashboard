@@ -1,0 +1,82 @@
+.bitcoin-price {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.title {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+}
+
+.symbol {
+  font-size: 18px;
+  color: #666;
+  margin-left: 5px;
+}
+
+.rank {
+  background-color: #e0e0e0;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-left: 10px;
+  font-size: 14px;
+}
+
+.price-info {
+  text-align: right;
+}
+
+.price-info h2 {
+  margin: 0;
+}
+
+.change {
+  display: block;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.positive {
+  color: green;
+}
+
+.negative {
+  color: red;
+}
+
+.chart {
+  margin-top: 20px;
+}
+
+.tradingview-widget {
+  border: none;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .price-info {
+    text-align: left;
+  }
+}

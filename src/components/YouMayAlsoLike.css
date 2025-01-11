@@ -1,0 +1,30 @@
+.you-may-also-like {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 20px;
+  }
+  
+  .you-may-also-like h2 {
+    margin-bottom: 10px;
+  }
+  
+  .carousel {
+    display: flex;
+    overflow-x: auto;
+  }
+  
+  .coin-card {
+    min-width: 150px;
+    margin-right: 10px;
+    padding: 10px;
+    background-color: #f1f1f1;
+    border-radius: 8px;
+    text-align: center;
+  }
+  @media (max-width: 768px) {
+      .coin-card {
+      min-width: 120px;
+    }
+    }

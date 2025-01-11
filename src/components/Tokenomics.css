@@ -1,0 +1,49 @@
+.tokenomics {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+}
+
+.tokenomics h2, .tokenomics h3 {
+  margin-bottom: 15px;
+}
+
+.distribution {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.chart {
+  display: flex;
+  align-items: center;
+}
+
+.legend {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+}
+
+.legend-color {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 5px;
+}
+
+@media (max-width: 768px) {
+  .distribution {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
