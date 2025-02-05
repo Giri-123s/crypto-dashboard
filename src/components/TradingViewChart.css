@@ -4,3 +4,8 @@
     border-radius: 8px;
     overflow: hidden;
   }
+  @media (max-width: 768px) {
+    .tradingview-chart {
+      margin-top: 15px;
+    }
+  }
