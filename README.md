@@ -1,3 +1,37 @@
+# 📊 Crypto Dashboard  
+
+A dynamic **Crypto Dashboard** that provides real-time cryptocurrency prices and market trends. This project is built using **HTML, CSS, and JavaScript**, offering an intuitive UI for crypto enthusiasts.  
+
+---
+
+## 🚀 Features  
+
+✅ Real-time Cryptocurrency Prices  
+✅ Interactive Charts & Graphs  
+✅ Responsive Design (Mobile & Desktop)  
+✅ API Integration for Live Data  
+
+---
+
+## 📸 Screenshots  
+
+### 🖥️ Dashboard View  
+![Crypto Dashboard Screenshot](https://raw.githubusercontent.com/Giri-123s/cr)  
+
+---
+
+## 🛠️ Tech Stack  
+
+🔹 CSS 
+🔹 Bootstrap  
+🔹 JavaScript  
+🔹 REACT  
+🔹 API
+
+---
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
