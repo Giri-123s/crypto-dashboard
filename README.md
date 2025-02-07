@@ -16,7 +16,7 @@ A dynamic **Crypto Dashboard** that provides real-time cryptocurrency prices and
 ## 📸 Screenshots  
 
 ### 🖥️ Dashboard View  
-![Crypto Dashboard Screenshot](https://raw.githubusercontent.com/Giri-123s/cr)  
+![Crypto Dashboard Screenshot]([https://raw.githubusercontent.com/Giri-123s/cr](https://github.com/Giri-123s/crypto-dashboard/blob/main/images/img1.png)  
 
 ---
 
